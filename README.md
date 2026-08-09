@@ -108,27 +108,27 @@ This removes the need for repeatedly downloading forecast CSV files and manually
 
 ### Streamlit Dashboard
 
-![Streamlit Dashboard](screenshots/streamlit-dashboard.png)
+![Streamlit Dashboard](Screenshots/streamlit-dashboard.png)
 
 ### Demand Forecast
 
-![Demand Forecast](screenshots/demand-forecast.png)
+![Demand Forecast](Screenshots/demand-forecast.png)
 
 ### Decision Intelligence
 
-![Decision Intelligence](screenshots/decision-intelligence.png)
+![Decision Intelligence](Screenshots/decision-intelligence.png)
 
 ### Gemini AI Insights
 
-![Gemini Insights](screenshots/gemini-insights.png)
+![Gemini Insights](Screenshots/gemini-insights.png)
 
 ### Chat Assistance 
 
-![Gemini Assistance](screenshots/gemini-chat-assistance.png)
+![Gemini Assistance](Screenshots/gemini-chat-assistance.png)
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](screenshots/powerbi-dashboard.png)
+![Power BI Dashboard](Screenshots/powerbi-dashboard.png)
 
 ## 🛠️ Technology Stack
 
