@@ -1,0 +1,17 @@
+python
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+shap
+matplotlib
+seaborn
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
+google-generativeai
+pyngrok
+gemini api key
+ngrok auth token
